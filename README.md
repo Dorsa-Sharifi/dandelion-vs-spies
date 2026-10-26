@@ -1,6 +1,6 @@
 # Dandelion Routing vs. Deanonymization Attacks — P2P Network Simulation
 
-A Computer Networks course project (Summer 2026) that simulates a peer-to-peer gossip network in which every node is a **real, separate OS process** talking to its neighbours over **UDP on localhost**. On top of this network we implement:
+A Computer Networks course project (Spring 2026) that simulates a peer-to-peer gossip network in which every node is a **real, separate OS process** talking to its neighbours over **UDP on localhost**. On top of this network we implement:
 
 1. plain flooding (diffusion) as a baseline,
 2. two **source-deanonymization attacks** run by colluding "spy" nodes,
@@ -238,4 +238,5 @@ Mean accuracy (%) and mean `T_80%` over 5 seeds:
 
 ## Authors
 
-Diba Hadi and Dorsa Sharifi — Computer Networks course project, Summer 2026.
+- Dorsa Sharifi Ghombavani
+- Diba Hadi
