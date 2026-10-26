@@ -1,0 +1,470 @@
+{
+    "node_00": {
+        "ip": "127.0.0.1",
+        "port": 5000,
+        "pos": [
+            593,
+            563
+        ],
+        "cluster": 0,
+        "neighbors": {
+            "node_05": {
+                "base_delay_ms": 212.71
+            },
+            "node_22": {
+                "base_delay_ms": 385.51
+            },
+            "node_06": {
+                "base_delay_ms": 422.71
+            },
+            "node_20": {
+                "base_delay_ms": 292.91
+            }
+        }
+    },
+    "node_01": {
+        "ip": "127.0.0.1",
+        "port": 5001,
+        "pos": [
+            221,
+            864
+        ],
+        "cluster": 1,
+        "neighbors": {
+            "node_11": {
+                "base_delay_ms": 215.36
+            },
+            "node_16": {
+                "base_delay_ms": 127.82
+            },
+            "node_13": {
+                "base_delay_ms": 862.84
+            }
+        }
+    },
+    "node_02": {
+        "ip": "127.0.0.1",
+        "port": 5002,
+        "pos": [
+            817,
+            438
+        ],
+        "cluster": 2,
+        "neighbors": {
+            "node_04": {
+                "base_delay_ms": 307.1
+            },
+            "node_18": {
+                "base_delay_ms": 211.1
+            },
+            "node_17": {
+                "base_delay_ms": 59.81
+            },
+            "node_07": {
+                "base_delay_ms": 86.61
+            }
+        }
+    },
+    "node_03": {
+        "ip": "127.0.0.1",
+        "port": 5003,
+        "pos": [
+            792,
+            96
+        ],
+        "cluster": 3,
+        "neighbors": {
+            "node_08": {
+                "base_delay_ms": 140.25
+            },
+            "node_23": {
+                "base_delay_ms": 126.04
+            }
+        }
+    },
+    "node_04": {
+        "ip": "127.0.0.1",
+        "port": 5004,
+        "pos": [
+            825,
+            745
+        ],
+        "cluster": 4,
+        "neighbors": {
+            "node_02": {
+                "base_delay_ms": 307.1
+            },
+            "node_16": {
+                "base_delay_ms": 635.02
+            },
+            "node_14": {
+                "base_delay_ms": 173.74
+            },
+            "node_19": {
+                "base_delay_ms": 102.46
+            }
+        }
+    },
+    "node_05": {
+        "ip": "127.0.0.1",
+        "port": 5005,
+        "pos": [
+            427,
+            430
+        ],
+        "cluster": 0,
+        "neighbors": {
+            "node_10": {
+                "base_delay_ms": 36.72
+            },
+            "node_00": {
+                "base_delay_ms": 212.71
+            }
+        }
+    },
+    "node_06": {
+        "ip": "127.0.0.1",
+        "port": 5006,
+        "pos": [
+            211,
+            744
+        ],
+        "cluster": 1,
+        "neighbors": {
+            "node_11": {
+                "base_delay_ms": 101.79
+            },
+            "node_00": {
+                "base_delay_ms": 422.71
+            },
+            "node_21": {
+                "base_delay_ms": 110.32
+            }
+        }
+    },
+    "node_07": {
+        "ip": "127.0.0.1",
+        "port": 5007,
+        "pos": [
+            772,
+            364
+        ],
+        "cluster": 2,
+        "neighbors": {
+            "node_12": {
+                "base_delay_ms": 96.26
+            },
+            "node_02": {
+                "base_delay_ms": 86.61
+            }
+        }
+    },
+    "node_08": {
+        "ip": "127.0.0.1",
+        "port": 5008,
+        "pos": [
+            830,
+            231
+        ],
+        "cluster": 3,
+        "neighbors": {
+            "node_13": {
+                "base_delay_ms": 15.56
+            },
+            "node_03": {
+                "base_delay_ms": 140.25
+            }
+        }
+    },
+    "node_09": {
+        "ip": "127.0.0.1",
+        "port": 5009,
+        "pos": [
+            806,
+            749
+        ],
+        "cluster": 4,
+        "neighbors": {
+            "node_19": {
+                "base_delay_ms": 106.55
+            },
+            "node_14": {
+                "base_delay_ms": 155.6
+            },
+            "node_20": {
+                "base_delay_ms": 563.06
+            }
+        }
+    },
+    "node_10": {
+        "ip": "127.0.0.1",
+        "port": 5010,
+        "pos": [
+            395,
+            448
+        ],
+        "cluster": 0,
+        "neighbors": {
+            "node_05": {
+                "base_delay_ms": 36.72
+            },
+            "node_15": {
+                "base_delay_ms": 91.01
+            }
+        }
+    },
+    "node_11": {
+        "ip": "127.0.0.1",
+        "port": 5011,
+        "pos": [
+            155,
+            659
+        ],
+        "cluster": 1,
+        "neighbors": {
+            "node_06": {
+                "base_delay_ms": 101.79
+            },
+            "node_01": {
+                "base_delay_ms": 215.36
+            }
+        }
+    },
+    "node_12": {
+        "ip": "127.0.0.1",
+        "port": 5012,
+        "pos": [
+            851,
+            309
+        ],
+        "cluster": 2,
+        "neighbors": {
+            "node_22": {
+                "base_delay_ms": 32.0
+            },
+            "node_07": {
+                "base_delay_ms": 96.26
+            }
+        }
+    },
+    "node_13": {
+        "ip": "127.0.0.1",
+        "port": 5013,
+        "pos": [
+            819,
+            242
+        ],
+        "cluster": 3,
+        "neighbors": {
+            "node_08": {
+                "base_delay_ms": 15.56
+            },
+            "node_01": {
+                "base_delay_ms": 862.84
+            },
+            "node_18": {
+                "base_delay_ms": 94.19
+            }
+        }
+    },
+    "node_14": {
+        "ip": "127.0.0.1",
+        "port": 5014,
+        "pos": [
+            677,
+            836
+        ],
+        "cluster": 4,
+        "neighbors": {
+            "node_09": {
+                "base_delay_ms": 155.6
+            },
+            "node_04": {
+                "base_delay_ms": 173.74
+            }
+        }
+    },
+    "node_15": {
+        "ip": "127.0.0.1",
+        "port": 5015,
+        "pos": [
+            484,
+            429
+        ],
+        "cluster": 0,
+        "neighbors": {
+            "node_10": {
+                "base_delay_ms": 91.01
+            },
+            "node_20": {
+                "base_delay_ms": 177.61
+            }
+        }
+    },
+    "node_16": {
+        "ip": "127.0.0.1",
+        "port": 5016,
+        "pos": [
+            190,
+            740
+        ],
+        "cluster": 1,
+        "neighbors": {
+            "node_17": {
+                "base_delay_ms": 740.32
+            },
+            "node_04": {
+                "base_delay_ms": 635.02
+            },
+            "node_01": {
+                "base_delay_ms": 127.82
+            },
+            "node_21": {
+                "base_delay_ms": 90.47
+            }
+        }
+    },
+    "node_17": {
+        "ip": "127.0.0.1",
+        "port": 5017,
+        "pos": [
+            838,
+            382
+        ],
+        "cluster": 2,
+        "neighbors": {
+            "node_22": {
+                "base_delay_ms": 85.76
+            },
+            "node_16": {
+                "base_delay_ms": 740.32
+            },
+            "node_02": {
+                "base_delay_ms": 59.81
+            }
+        }
+    },
+    "node_18": {
+        "ip": "127.0.0.1",
+        "port": 5018,
+        "pos": [
+            725,
+            248
+        ],
+        "cluster": 3,
+        "neighbors": {
+            "node_23": {
+                "base_delay_ms": 69.08
+            },
+            "node_20": {
+                "base_delay_ms": 471.37
+            },
+            "node_02": {
+                "base_delay_ms": 211.1
+            },
+            "node_13": {
+                "base_delay_ms": 94.19
+            }
+        }
+    },
+    "node_19": {
+        "ip": "127.0.0.1",
+        "port": 5019,
+        "pos": [
+            858,
+            842
+        ],
+        "cluster": 4,
+        "neighbors": {
+            "node_09": {
+                "base_delay_ms": 106.55
+            },
+            "node_23": {
+                "base_delay_ms": 623.83
+            },
+            "node_04": {
+                "base_delay_ms": 102.46
+            }
+        }
+    },
+    "node_20": {
+        "ip": "127.0.0.1",
+        "port": 5020,
+        "pos": [
+            313,
+            477
+        ],
+        "cluster": 0,
+        "neighbors": {
+            "node_18": {
+                "base_delay_ms": 471.37
+            },
+            "node_09": {
+                "base_delay_ms": 563.06
+            },
+            "node_15": {
+                "base_delay_ms": 177.61
+            },
+            "node_00": {
+                "base_delay_ms": 292.91
+            }
+        }
+    },
+    "node_21": {
+        "ip": "127.0.0.1",
+        "port": 5021,
+        "pos": [
+            102,
+            761
+        ],
+        "cluster": 1,
+        "neighbors": {
+            "node_16": {
+                "base_delay_ms": 90.47
+            },
+            "node_06": {
+                "base_delay_ms": 110.32
+            }
+        }
+    },
+    "node_22": {
+        "ip": "127.0.0.1",
+        "port": 5022,
+        "pos": [
+            883,
+            309
+        ],
+        "cluster": 2,
+        "neighbors": {
+            "node_17": {
+                "base_delay_ms": 85.76
+            },
+            "node_12": {
+                "base_delay_ms": 32.0
+            },
+            "node_00": {
+                "base_delay_ms": 385.51
+            }
+        }
+    },
+    "node_23": {
+        "ip": "127.0.0.1",
+        "port": 5023,
+        "pos": [
+            789,
+            222
+        ],
+        "cluster": 3,
+        "neighbors": {
+            "node_18": {
+                "base_delay_ms": 69.08
+            },
+            "node_19": {
+                "base_delay_ms": 623.83
+            },
+            "node_03": {
+                "base_delay_ms": 126.04
+            }
+        }
+    }
+}

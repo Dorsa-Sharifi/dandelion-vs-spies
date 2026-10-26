@@ -1,0 +1,12 @@
+{
+    "config": {
+        "p_value": 0.1,
+        "seed": 101
+    },
+    "results": {
+        "baseline_accuracy": 0.18,
+        "proposed_accuracy": 0.105,
+        "phase4_accuracy": 0.28,
+        "avg_t80": 1.23827965259552
+    }
+}
